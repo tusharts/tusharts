@@ -51,8 +51,8 @@
       <strong>Tags:</strong> <code>Data Visualisation</code>, <code>Dashboard</code>, <code>Survey Analysis</code>
     </td>
     <td width="50%">
-      <strong><a href="https://github.com/tusharts/Tableau_Environmental_Dashboard">🔹 Tableau Dashboard: Environmental Metrics Dashboard</a></strong><br>
-      Built an interactive Tableau dashboard to visualise and monitor environmental metrics, including air quality and emissions data.<br>
+      <strong><a href="https://github.com/tusharts/Tableau-Airbnb-Price-Dashboard">🔹 Airbnb Price Analysis Dashboard in Tableau</a></strong><br>
+      Analyze Seattle Airbnb data with interactive Tableau dashboard. Explore average pricing trends and distribution across zip codes. Demonstrates data manipulation, visualization & dashboard creation skills using Tableau..<br>
       <strong>Tech:</strong> <code>Tableau</code><br>
       <strong>Tags:</strong> <code>Data Visualisation</code>, <code>Environmental Analysis</code>, <code>Dashboard</code>
     </td>
