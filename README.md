@@ -31,6 +31,11 @@
 
 - 🛠️ [Thrd Pricing Engine Challenge](https://github.com/tusharts/thrd-coding-challenge)  
   Dynamic price optimisation engine with business rules.
+  
+- [**Power BI Dashboard: Survey of Data Professionals**](https://github.com/tusharts/PowerBI_Dashboard-Survey_of_Data_Professionals)  
+  Created an interactive Power BI dashboard analysing survey data of data professionals, utilising various visualisation techniques.  
+  **Tech:** `Power BI`  
+  **Tags:** `Data Visualisation`, `Dashboard`, `Survey Analysis`
 
 ---
 
