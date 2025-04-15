@@ -45,3 +45,5 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tusharts&show_icons=true&theme=tokyonight)
 
+![Profile views](https://komarev.com/ghpvc/?username=tusharts)
+
