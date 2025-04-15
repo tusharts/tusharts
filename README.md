@@ -30,15 +30,13 @@
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <strong><a href="https://github.com/tusharts/Real-TimeCryptoTrendsAnalysis">🔹 Real-Time Crypto Trends Analysis</a></strong><br>
       Explore cryptocurrency price trends by fetching real-time data from the CoinMarketCap API. Analyse and visualise insights using Python, Pandas, and Seaborn.<br>
       <strong>Tech:</strong> <code>Python</code>, <code>Pandas</code>, <code>Seaborn</code><br>
       <strong>Tags:</strong> <code>Data Analysis</code>, <code>Cryptocurrency</code>, <code>API Integration</code>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td width="50%">
       <strong><a href="https://github.com/tusharts/thrd-coding-challenge">🔹 Thrd Pricing Engine Challenge</a></strong><br>
       Developed a dynamic pricing engine that adjusts product prices based on inventory levels and sales performance, ensuring optimal margins.<br>
       <strong>Tech:</strong> <code>Python</code>, <code>Pandas</code><br>
@@ -46,15 +44,13 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <strong><a href="https://github.com/tusharts/PowerBI_Dashboard-Survey_of_Data_Professionals">🔹 Power BI Dashboard: Survey of Data Professionals</a></strong><br>
       Created an interactive Power BI dashboard analysing survey data of data professionals, utilising various visualisation techniques.<br>
       <strong>Tech:</strong> <code>Power BI</code><br>
       <strong>Tags:</strong> <code>Data Visualisation</code>, <code>Dashboard</code>, <code>Survey Analysis</code>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td width="50%">
       <strong><a href="https://github.com/tusharts/Tableau_Environmental_Dashboard">🔹 Tableau Dashboard: Environmental Metrics Dashboard</a></strong><br>
       Built an interactive Tableau dashboard to visualise and monitor environmental metrics, including air quality and emissions data.<br>
       <strong>Tech:</strong> <code>Tableau</code><br>
@@ -62,15 +58,13 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <strong><a href="https://github.com/tusharts/InteractiveExcelDashboard-AnalyzingBikeBuyingTrends">🔹 Interactive Excel Dashboard: Analyzing Bike Buying Trends</a></strong><br>
       Built an Excel dashboard to analyse factors influencing bicycle purchase decisions, incorporating pivot tables, charts, and slicers.<br>
       <strong>Tech:</strong> <code>Excel</code><br>
       <strong>Tags:</strong> <code>Data Analysis</code>, <code>Dashboard</code>, <code>Excel Visualisation</code>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td width="50%">
       <strong><a href="https://github.com/tusharts/SwipeApp">🔹 SwipeApp: Touchscreen Swipe Simulator</a></strong><br>
       Developed a Tkinter-based GUI application to simulate touchscreen swipes using ADB commands, enhancing efficiency in navigating dating apps.<br>
       <strong>Tech:</strong> <code>Python</code>, <code>Tkinter</code>, <code>ADB</code><br>
@@ -78,15 +72,13 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <strong><a href="https://github.com/tusharts/SwipeBot">🔹 AutoSwipe: Automating Left & Right Swipes in Dating Apps</a></strong><br>
       A batch script that automates swiping actions in dating apps using ADB, streamlining the user experience.<br>
       <strong>Tech:</strong> <code>Batch Script</code>, <code>ADB</code><br>
       <strong>Tags:</strong> <code>Automation</code>, <code>Android</code>, <code>Productivity</code>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td width="50%">
       <strong><a href="https://github.com/tusharts/AmazonWebDataScraper">🔹 Amazon Web Data Scraper</a></strong><br>
       A Python script to extract product details like titles and prices from Amazon's website, facilitating data collection and analysis.<br>
       <strong>Tech:</strong> <code>Python</code>, <code>Web Scraping</code><br>
@@ -94,15 +86,13 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <strong><a href="https://github.com/tusharts/SQL-and-Excel-Assignment-Solution">🔹 SQL and Excel Assignment Solution</a></strong><br>
       Provided solutions to assignments involving SQL queries and Excel data analysis, demonstrating proficiency in data manipulation and reporting.<br>
       <strong>Tech:</strong> <code>SQL</code>, <code>Excel</code><br>
       <strong>Tags:</strong> <code>Data Analysis</code>, <code>Reporting</code>, <code>Assignment Solution</code>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td width="50%">
       <strong><a href="https://github.com/tusharts/CoronavirusStatisticalAnalysis">🔹 Coronavirus Statistical Analysis</a></strong><br>
       Conducted statistical analysis on COVID-19 data using SQL queries and data visualisation techniques to uncover trends and insights.<br>
       <strong>Tech:</strong> <code>SQL</code>, <code>Data Visualisation</code><br>
@@ -116,6 +106,8 @@
 ---
 
 For a comprehensive view of all my projects, please visit my GitHub profile: [tusharts](https://github.com/tusharts).
+
+
 
 ---
 
