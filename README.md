@@ -26,16 +26,55 @@
 
 ## 📌 Featured Projects
 
-- 🔍 [Real-Time Crypto Trends Analysis](https://github.com/tusharts/Real-TimeCryptoTrendsAnalysis)  
-  Real-time dashboard using CoinMarketCap API, Pandas & Seaborn.
+🔹 [**Real-Time Crypto Trends Analysis**](https://github.com/tusharts/Real-TimeCryptoTrendsAnalysis)  
+  Explore cryptocurrency price trends by fetching real-time data from the CoinMarketCap API. Analyse and visualise insights using Python, Pandas, and Seaborn.  
+  **Tech:** `Python`, `Pandas`, `Seaborn`  
+  **Tags:** `Data Analysis`, `Cryptocurrency`, `API Integration`
 
-- 🛠️ [Thrd Pricing Engine Challenge](https://github.com/tusharts/thrd-coding-challenge)  
-  Dynamic price optimisation engine with business rules.
-  
-- [**Power BI Dashboard: Survey of Data Professionals**](https://github.com/tusharts/PowerBI_Dashboard-Survey_of_Data_Professionals)  
+- 🔹 [**Thrd Pricing Engine Challenge**](https://github.com/tusharts/thrd-coding-challenge)  
+  Developed a dynamic pricing engine that adjusts product prices based on inventory levels and sales performance, ensuring optimal margins.  
+  **Tech:** `Python`, `Pandas`  
+  **Tags:** `Pricing Strategy`, `Automation`, `CSV Processing`
+
+- 🔹 [**Power BI Dashboard: Survey of Data Professionals**](https://github.com/tusharts/PowerBI_Dashboard-Survey_of_Data_Professionals)  
   Created an interactive Power BI dashboard analysing survey data of data professionals, utilising various visualisation techniques.  
   **Tech:** `Power BI`  
   **Tags:** `Data Visualisation`, `Dashboard`, `Survey Analysis`
+
+- 🔹 [**Tableau Dashboard: Environmental Metrics Dashboard**](https://github.com/tusharts/Tableau_Environmental_Dashboard)  
+  Built an interactive Tableau dashboard to visualise and monitor environmental metrics, including air quality and emissions data.  
+  **Tech:** `Tableau`  
+  **Tags:** `Data Visualisation`, `Environmental Analysis`, `Dashboard`
+
+- 🔹 [**Interactive Excel Dashboard: Analyzing Bike Buying Trends**](https://github.com/tusharts/InteractiveExcelDashboard-AnalyzingBikeBuyingTrends)  
+  Built an Excel dashboard to analyse factors influencing bicycle purchase decisions, incorporating pivot tables, charts, and slicers.  
+  **Tech:** `Excel`  
+  **Tags:** `Data Analysis`, `Dashboard`, `Excel Visualisation`
+
+- 🔹 [**SwipeApp: Touchscreen Swipe Simulator**](https://github.com/tusharts/SwipeApp)  
+  Developed a Tkinter-based GUI application to simulate touchscreen swipes using ADB commands, enhancing efficiency in navigating dating apps.  
+  **Tech:** `Python`, `Tkinter`, `ADB`  
+  **Tags:** `Automation`, `GUI Application`, `Android`
+
+- 🔹 [**AutoSwipe: Automating Left & Right Swipes in Dating Apps**](https://github.com/tusharts/SwipeBot)  
+  A batch script that automates swiping actions in dating apps using ADB, streamlining the user experience.  
+  **Tech:** `Batch Script`, `ADB`  
+  **Tags:** `Automation`, `Android`, `Productivity`
+
+- 🔹 [**Amazon Web Data Scraper**](https://github.com/tusharts/AmazonWebDataScraper)  
+  A Python script to extract product details like titles and prices from Amazon's website, facilitating data collection and analysis.  
+  **Tech:** `Python`, `Web Scraping`  
+  **Tags:** `Data Extraction`, `E-commerce`, `Automation`
+
+- 🔹 [**SQL and Excel Assignment Solution**](https://github.com/tusharts/SQL-and-Excel-Assignment-Solution)  
+  Provided solutions to assignments involving SQL queries and Excel data analysis, demonstrating proficiency in data manipulation and reporting.  
+  **Tech:** `SQL`, `Excel`  
+  **Tags:** `Data Analysis`, `Reporting`, `Assignment Solution`
+
+- 🔹 [**Coronavirus Statistical Analysis**](https://github.com/tusharts/CoronavirusStatisticalAnalysis)  
+  Conducted statistical analysis on COVID-19 data using SQL queries and data visualisation techniques to uncover trends and insights.  
+  **Tech:** `SQL`, `Data Visualisation`  
+  **Tags:** `Public Health`, `Data Analysis`, `Statistics`
 
 ---
 
